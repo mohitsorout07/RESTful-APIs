@@ -1,0 +1,50 @@
+h1{
+    color: maroon;
+}
+
+.post{
+    background-color: blanchedalmond;
+    border-radius: 10px;
+    padding-left: 10px;
+}
+
+.user{
+    font-style: italic;
+}
+
+#newpostbtn{
+    background-color: white;
+    text-decoration: none;
+    color: maroon;
+    border-radius: 10px;
+    border: 2px solid black;
+}
+
+.btn{
+    background-color: white;
+    border: 1.5px solid black;
+    border-radius: 10px;
+    padding: 2px 10px;
+    
+}
+
+a{
+    background-color: rgb(96, 140, 233);
+    display: inline-block;
+    color: black;
+    text-decoration: none;
+    border-radius: 10px;
+    padding: 2px 10px;
+}
+
+
+.dlt-btn{
+    background-color: rgb(184, 19, 19);
+    color: black;
+}
+
+.button-group{
+    display: flex;
+    gap: 10px;
+    align-items: center;
+}
