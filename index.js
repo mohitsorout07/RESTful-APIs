@@ -17,17 +17,17 @@ let posts = [
     {
         id: uuidv4(),
         username : "mohitsorout",
-        content: "I love trading"
+        content: "I love coding"
     },
     {
         id: uuidv4(),
-        username : "anilsorout",
+        username : "anil",
         content: "I got selected for Civil Services!"
     },
     {
         id: uuidv4(),
-        username : "yogeshsorout",
-        content: "I love learning robotics"
+        username : "yogesh",
+        content: "learning CAD and Robotics"
     },
     
 ];
